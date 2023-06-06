@@ -22,3 +22,10 @@ Tampilan awal game
 Tampilan ketika game mulai dijalankan
 ![IMG-20230606-WA0018](https://github.com/KevinTaqwaAbdiansyah/UAS-PBO/assets/129782065/220d9f37-0028-44c9-94d8-0b15ed146fcc)
 ![IMG-20230606-WA0020](https://github.com/KevinTaqwaAbdiansyah/UAS-PBO/assets/129782065/dfc711d7-c788-49d1-8708-21a45093257f)
+
+Tampilan ketika kata berhasil di tebak
+![IMG-20230606-WA0017](https://github.com/KevinTaqwaAbdiansyah/UAS-PBO/assets/129782065/fd3ff3d7-5317-42ba-afde-3c9670a7817c)
+
+Tampilan ketika kata tidak berhasil di tebak
+![IMG-20230606-WA0023](https://github.com/KevinTaqwaAbdiansyah/UAS-PBO/assets/129782065/8329d815-f3e4-48d8-8b34-a7693e55f2e8)
+
