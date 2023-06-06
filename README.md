@@ -2,9 +2,9 @@
 
 Anggota Kelompok :
 
--Zahrah Hafizah Fakhri (G1A022046)
--Neli Agustin (G1A022048)
--Kevin Taqwa Abdiansyah (G1A022078)
+1.Zahrah Hafizah Fakhri (G1A022046)
+2.Neli Agustin (G1A022048)
+3.Kevin Taqwa Abdiansyah (G1A022078)
 
 Membuat Game Hangman. 
 
@@ -15,3 +15,4 @@ Kode pertama mengimpor beberapa modul yang diperlukan, termasuk modul random, ti
 Ada beberapa fungsi yang didefinisikan, seperti draw_text() untuk menggambar teks di layar dan draw_hangman() untuk menggambar gambar hangman. Fungsi utama hangman() mengimplementasikan logika permainan. Kata yang akan ditebak dipilih secara acak, dan pemain diberikan kesempatan untuk menebak huruf-hurufnya. Saat pemain menebak huruf dengan benar, huruf tersebut ditampilkan di tempat yang sesuai dalam kata yang harus ditebak. Jika pemain menebak huruf-huruf dengan benar dan berhasil menebak seluruh kata sebelum kesempatan habis, pemain menang. Jika pemain gagal menebak kata sebelum kesempatan habis, pemain kalah.
 
 Setelah permainan selesai, pesan "YOU WIN!" atau "YOU LOSE!" ditampilkan selama beberapa detik sebelum program keluar. Terakhir, permainan dimulai dengan memanggil fungsi hangman(), dan ketika permainan selesai, modul Pygame ditutup dengan pygame.quit().
+
