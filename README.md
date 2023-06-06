@@ -2,9 +2,9 @@
 
 Anggota Kelompok :
 
-Zahrah Hafizah Fakhri (G1A022046)
-Neli Agustin (G1A022048)
-Kevin Taqwa Abdiansyah (G1A022078)
+-Zahrah Hafizah Fakhri (G1A022046)
+-Neli Agustin (G1A022048)
+-Kevin Taqwa Abdiansyah (G1A022078)
 
 Membuat Game Hangman. 
 
