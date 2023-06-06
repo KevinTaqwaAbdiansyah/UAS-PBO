@@ -18,3 +18,7 @@ Setelah permainan selesai, pesan "YOU WIN!" atau "YOU LOSE!" ditampilkan selama 
 
 Tampilan awal game
 ![IMG-20230606-WA0019](https://github.com/KevinTaqwaAbdiansyah/UAS-PBO/assets/129782065/8108bd26-3b77-4b12-a77c-d8ded410e7d9)
+
+Tampilan ketika game mulai dijalankan
+![IMG-20230606-WA0018](https://github.com/KevinTaqwaAbdiansyah/UAS-PBO/assets/129782065/220d9f37-0028-44c9-94d8-0b15ed146fcc)
+![IMG-20230606-WA0020](https://github.com/KevinTaqwaAbdiansyah/UAS-PBO/assets/129782065/dfc711d7-c788-49d1-8708-21a45093257f)
