@@ -16,16 +16,15 @@ Ada beberapa fungsi yang didefinisikan, seperti draw_text() untuk menggambar tek
 
 Setelah permainan selesai, pesan "YOU WIN!" atau "YOU LOSE!" ditampilkan selama beberapa detik sebelum program keluar. Terakhir, permainan dimulai dengan memanggil fungsi hangman(), dan ketika permainan selesai, modul Pygame ditutup dengan pygame.quit().
 
-Tampilan awal game
+Tampilan Awal Game
 ![IMG-20230606-WA0019](https://github.com/KevinTaqwaAbdiansyah/UAS-PBO/assets/129782065/8108bd26-3b77-4b12-a77c-d8ded410e7d9)
 
-Tampilan ketika game mulai dijalankan
+Tampilan Ketika Game Mulai Dijalankan
 ![IMG-20230606-WA0018](https://github.com/KevinTaqwaAbdiansyah/UAS-PBO/assets/129782065/220d9f37-0028-44c9-94d8-0b15ed146fcc)
 ![IMG-20230606-WA0020](https://github.com/KevinTaqwaAbdiansyah/UAS-PBO/assets/129782065/dfc711d7-c788-49d1-8708-21a45093257f)
 
-Tampilan ketika kata berhasil di tebak
+Tampilan Ketika Kata Berhasil Ditebak
 ![IMG-20230606-WA0017](https://github.com/KevinTaqwaAbdiansyah/UAS-PBO/assets/129782065/fd3ff3d7-5317-42ba-afde-3c9670a7817c)
 
-Tampilan ketika kata tidak berhasil di tebak
+Tampilan Ketika Kata Tidak Berhasil Ditebak
 ![IMG-20230606-WA0023](https://github.com/KevinTaqwaAbdiansyah/UAS-PBO/assets/129782065/8329d815-f3e4-48d8-8b34-a7693e55f2e8)
-
